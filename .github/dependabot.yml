@@ -6,3 +6,4 @@ updates:
       interval: "daily"
     labels:
       - "maintenance"
+gh-pages branch
